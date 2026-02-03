@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi!%20I'm%20Maria%20(Yiyang%20Ma)&textBg=false&animation=fadeIn&desc=🎓%20Data%20Science%20%26%20Cognitive%20Science%20@%20UC%20Berkeley%20🧠%20UIUX,%20AI,%20HCI,%20Systems%20🚀%20AI-powered%20products&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi!%20I'm%20Maria%20(Yiyang%20Ma)&textBg=false&animation=fadeIn&desc=🎓%20Data%20Science%20%26%20Cognitive%20Science%20@%20UC%20Berkeley%20/%20UIUX,%20AI,%20HCI,%20Systems%20/%20AI-powered%20products&descAlign=50&descAlignY=70)
 
 
 
