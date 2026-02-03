@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:112233,100:435262&height=200&text=Hello%20World&fontColor=ffffff)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=0:112233,100:435262&height=200&text=Hello%20World&fontColor=ffffff](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi!%20I'm%20Maria%20(Yiyang%20Ma)&textBg=false&reversal=false&animation=fadeIn&desc=UC%20Berkeley%20Junior,%20Data%20Science%20+%20Cognitive%20Science%20BA&descAlign=50&descAlignY=70))
 ## 👋 Hi, I’m Maria
 
 🎓 Data Science & Cognitive Science @ UC Berkeley  
