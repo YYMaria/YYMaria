@@ -4,8 +4,6 @@
 
 
 ## 👋 Hi, I’m Maria
-
-🎓 Data Science & Cognitive Science @ UC Berkeley  
 🧠 Interested in UIUX, AI, HCI, and systems  
 🚀 Building AI-powered products & tools
 
