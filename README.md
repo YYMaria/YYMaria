@@ -1,16 +1,29 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:112233,100:435262&height=200&text=Hello%20World&fontColor=ffffff)
+## 👋 Hi, I’m Maria
 
-<!--
-**YYMaria/YYMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & Cognitive Science @ UC Berkeley  
+🧠 Interested in UIUX, AI, HCI, and systems  
+🚀 Building AI-powered products & tools
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=python,js,react,node,docker,aws,git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YYMaria&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYMaria&layout=compact)
+
+🔗 Portfolio: https://your-site.com  
+✍️ Blog: https://dev.to/yourname  
+💼 LinkedIn: https://linkedin.com/in/yourname
+
+## 🌱 Research Interests & Long-Term Vision
+
+I’m interested in how AI systems can augment human cognition rather than replace it,
+with a focus on:
+- Human-centered AI
+- Explainability & interpretability
+- Design systems that respect human values
+
+Long-term, I hope to work at the intersection of AI, design, and societal impact.
+
+
