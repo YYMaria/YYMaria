@@ -10,8 +10,7 @@
 ### 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=python,js,react,node,docker,aws,git)
 
-![Stats](./profile/stats.svg)
-![Top Langs](./profile/top-langs.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYMaria)](https://github.com/anuraghazra/github-readme-stats)
 
 🔗 Portfolio: https://your-site.com  
 ✍️ Blog: https://dev.to/yourname  
