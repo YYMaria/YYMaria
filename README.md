@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi!%20I'm%20Maria%20(Yiyang%20Ma)&textBg=false&reversal=false&animation=fadeIn&desc=UC%20Berkeley%20Junior,%20Data%20Science%20+%20Cognitive%20Science%20BA&descAlign=50&descAlignY=70)
+
 # 💫 About Me:
 🔭 I’m currently working on: AI-powered products at the intersection of data, design, and human behavior — including developer tools, UX-driven web apps, and applied ML projects.<br><br>👯 I’m looking to collaborate on: Open-source projects related HCI, UI/UX design systems, to AI/ML, data visualization, and full-stack web apps.<br><br>🤝 I’m looking for help with: Scaling and deploying production-grade AI systems and improving system design skills.<br><br>🌱 I’m currently learning: Advanced machine learning, Data security, and designing human-centered AI interfaces.<br><br>💬 Ask me about: Data Science, Cognitive Science, UX/UI design, product thinking, AI tools, or life at UC Berkeley.<br><br>⚡ Fun fact: I enjoy turning complex technical systems into clear, human-friendly experiences — and I care way too much about good UI details 😄
 
