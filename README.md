@@ -4,11 +4,12 @@
 🔭 I’m currently working on: AI-powered products at the intersection of data, design, and human behavior — including developer tools, UX-driven web apps, and applied ML projects.<br><br>👯 I’m looking to collaborate on: Open-source projects related HCI, UI/UX design systems, to AI/ML, data visualization, and full-stack web apps.<br><br>🤝 I’m looking for help with: Scaling and deploying production-grade AI systems and improving system design skills.<br><br>🌱 I’m currently learning: Advanced machine learning, Data security, and designing human-centered AI interfaces.<br><br>💬 Ask me about: Data Science, Cognitive Science, UX/UI design, product thinking, AI tools, or life at UC Berkeley.<br><br>⚡ Fun fact: I enjoy turning complex technical systems into clear, human-friendly experiences — and I care way too much about good UI details 😄
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/mariayiyangma)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mariayiyangm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariayiyangma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yiyangma@berkeley.edu)
+# 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mariayiyangma)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariayiyangm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariayiyangma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yiyangma@berkeley.edu)
+
 
 
 # 💻 Tech Stack:
